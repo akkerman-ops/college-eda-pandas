@@ -14,4 +14,3 @@ Exploratory Data Analysis (EDA) of the **College** dataset in a Jupyter Notebook
 - Histograms of key numerical features
 - Simple comparisons/visual insights
 
-## Project structure
